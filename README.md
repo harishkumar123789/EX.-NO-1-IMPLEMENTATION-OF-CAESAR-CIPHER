@@ -54,7 +54,7 @@ void main()
 ```
 
 ## OUTPUT:
-<img width="1382" height="731" alt="image" src="https://github.com/user-attachments/assets/f70dda77-90d4-40e3-a1cb-e9875835a52f" />
+<img width="1512" height="896" alt="image" src="https://github.com/user-attachments/assets/4371ef0d-2c59-432c-ba79-bbdf4e327a6c" />
 
 
 
